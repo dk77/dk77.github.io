@@ -1,0 +1,39 @@
+<html>
+<head>
+	<title></title>
+	<link rel = "stylesheet" type = "text/css" href = "stylesheets\dbc2.css"/>
+</head>
+<body>
+	<div id = "header">Lacrosse</div>
+
+	<div id = "sidebar">
+		<ul>
+			<h3>Helpful Links<h3>
+			<li><a href = "http://www.laxrules.com/">Men's and Women's Rules</a></li>
+			<li><a href = "http://www.ducksters.com/sports/lacrosse.php">Lacrosse 101</a></li>
+			<li><a href = "http://www.laxmagazine.com/genrel/102512_its_not_about_you_five_big_things_every_lacrosse_parent_should_know">Young Players</a></li>
+		</ul>
+
+	</div>
+
+
+	<div>
+		<img src ="http://filacrosse.com/wp-content/uploads/2012/09/indian_ball_game_1400x1121.jpg" height = "130" width = "150">
+		<h4> Origins of Lacrosse</h4>
+		<p>Lacrosse, or "Stickball" as it was referred to at the time, was first played by the Algonquian Tribe in the East and Mideast regions of the United States. Unlike the modern (10 player per team) version, games at that time could consist of tens to thousands of people on either team. The game served two main purposes. The first was to bring together tribes across long distances and maintain strong connections with eachother. The second was to toughen up children. Relative to the helmets, pads, and various sets of protective gear that modern players use, Native Americans at that time used almost no protective gear.</p>
+		<br>
+	</div>
+      
+      
+   <div>
+		<img src ="http://graphics8.nytimes.com/images/2013/03/05/sports/05lizards2/05lizards2-articleLarge.jpg" height = "130" width = "150">
+		<h4>An Overview of Modern Day Lacrosse</h4>
+		<p>Lacrosse is high contact and fast pace game that resembles a hybrid of football, hockey, and track. The object of the game is to score more goals than the other team by throwing a small rubber ball into your opponents goal. In order to stop the person with the ball it is allowed to "tackle" him or hit the person with your lacrosse stick. Each team consists of 10 players. The goalie has a stick with a very wide net and is obviously the most important player as he prevents points from being scored. He stands inside the goal which is contained inside a circle surrounding it called "The Crease". He cannot be touched while standing inside "The Crease". The three defenders follow the instructions of the goalie and prevent anyone with the ball from coming close to the goal. Except under rare circumstances defenders cannot cross the mid-line. Defenders have lacrosse sticks that are twice the length of everyone else (6ft) and are often the largest players on the field. Three midfielders play both defense and offense. The final position is attack, whose only job it is is to score. Like the the defenders they cannot cross the midline.</p>
+		<br>
+	</div>
+
+
+<div id = "footer"></div>
+
+</body>
+</html
